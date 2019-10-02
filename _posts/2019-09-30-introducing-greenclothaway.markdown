@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing GreenClothaWay"
 date:   2019-09-30 14:57:30 +0200
-categories: blog update
+categories: update
 ---
 
 Hi there,
