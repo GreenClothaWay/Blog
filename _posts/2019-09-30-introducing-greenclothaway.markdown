@@ -18,7 +18,7 @@ In the name of the project are all our objectives :
 
 The choice of a website means simple access by any device on the web.
 
-We have chosen to use Python as programmin language with the Django Framework as well as Mysql for the back-end and Boostrap for the front-end.
+We have chosen to use Python as programming language with the Django Framework as well as Mysql for the back-end and Boostrap for the front-end.
 
 Best regards,
 The GreenClothaWay-Team
