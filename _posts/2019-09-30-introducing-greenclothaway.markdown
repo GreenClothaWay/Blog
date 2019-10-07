@@ -9,7 +9,7 @@ Hi there,
 
 In this first post, we present our project called "GreenClothaWay".
 
-In the name of the project are all our objectives :
+In the name of the project are all our objectives:
 - Green
 - Clothes
 - Away
