@@ -18,7 +18,7 @@ In the name of the project are all our objectives :
 
 The choice of a website means simple access by any device on the web.
 
-We have chosen to use Python as programming language with the Django Framework as well as Mysql for the back-end and Boostrap for the front-end.
+We have chosen to use Python as programming language with the Django Framework as well as PostgreSQL for the back-end and Boostrap for the front-end.
 
 The Product will offer a platform where anyone can insert their own old clothes for free. Which means they can insert for free but also only will be able to offer the clothes for free. The platform can not be used to gain financial profit.
 
