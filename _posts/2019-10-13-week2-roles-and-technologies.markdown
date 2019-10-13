@@ -19,7 +19,7 @@ Firstly, we defined our roles for each contributor.
 | Test Designer – Backend | Implements automated portions of the test design for the iteration concerning the backend | Nico Diefenbacher, Paul Meyer
 | Blog Writer             | 	Writes blog entries to keep people up to date                                           | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
 | Project Manager         | Plans, tracks, and manages risk for a single iteration                                    | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
-| Tool Specialist         | Is responsible for promoting and supporting Scrum| git status                             | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
+| Tool Specialist         | Is responsible for promoting and supporting Scrum                                         | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
 | Deployment Manager      |  Specialist	Creates guidelines for using a specific tool                                  | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
 | Configuration Manager   | Creates a deployment unit, reports on configuration status, performs audits, and so forth | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
 | Tool Specialist         |  Manager	Reviews and manages change requests                                             | Paul Meyer|
