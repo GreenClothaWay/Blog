@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing GreenClothaWay"
+title:  "Week1: Introducing GreenClothaWay"
 date:   2019-09-30 14:57:30 +0200
 categories: update
 ---
