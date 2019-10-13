@@ -31,6 +31,10 @@ In order to host our website we needed a server. After buying a server at Hetzne
 
 Afterwards we configured a simple firewall using shorewall. Following we installed a nginx webserver and requested a certificate from Lets Encrypt using certbot.
 
+We had some problems with our blog's comment system. As we use the Jekyll framework, which generates static sites, we must use an external service for comments. We found a simple system that was easy to deploy, but the free version was unfortunately limited to one week. So we decided to host this system ourselves.
+
+It consists of two Node.JS applications: The first is the back-end, which records comments in JSON files and the second is the front-end, that displays the form and comments. The two applications run on two different ports, so we used Nginx as a reverse proxy, to link two subdomains, respectively j1 and j2, to the ports of our apps. To keep our server secure, we use the https protocol and our subdomains are linked by a cloudflare proxy.
+
 
 Best regards,
 
