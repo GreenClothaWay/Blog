@@ -25,10 +25,9 @@ Firstly, we defined our roles for each contributor.
 | Tool Specialist         |  Manager	Reviews and manages change requests                                             | Paul Meyer|
 | Change Control Manager  | Reviews and manages change requests                                                       | Nico Diefenbacher, Zeno Berkhan, Paul Meyer
 
-After we defined roles for each contributor, we thought 
-In order to host our website we needed a server. After buying a server at Hetzner we installed a debian distribution and configured the servers ssh port. Otherwise it would have been under attack all the time. 
+Furthermore we discussed about technical requirements such as server, firewalls and certificates. 
 
-Furthermore we discussed about technical requirements such as firewalls and certificates. 
+In order to host our website we needed a server. After buying a server at Hetzner we installed a debian distribution and configured the servers ssh port. Otherwise it would have been under attack all the time. 
 
 Afterwards we configured a simple firewall using shorewall. Following we installed a nginx webserver and requested a certificate from Lets Encrypt using certbot.
 
