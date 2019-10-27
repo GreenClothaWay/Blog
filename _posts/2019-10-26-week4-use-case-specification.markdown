@@ -7,9 +7,17 @@ categories: update
 
 Hi everyone,
 
-this week we present two of our use cases in detail. 
+this week we will present you two of our use cases and mockups.
 
-You can find the use cases on our GitHub:
+The two uses cases are:
+- Create Account
+- View basic informations
+
+You can find the use cases on our GitHub repository:
+
+[Use Cases](https://github.com/GreenClothaWay/Website/tree/master/doc/uc)
+
+[Mockups](https://github.com/GreenClothaWay/Website/tree/master/doc/mockups)
 
 Best regards,
 
