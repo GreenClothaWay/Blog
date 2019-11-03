@@ -14,7 +14,7 @@ The two tests are:
 - [View basic information](https://github.com/GreenClothaWay/Website/blob/master/features/ProductInformation.feature)
 
 We recommend to use the professional version of Pycharm (free for students) because it integrates behave testing.
-Also the autocompletion and and syntax highlighting are working just fine.
+Also the autocompletion and syntax highlighting are working just fine.
 
 ![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/screenshot_2019-11-03.png)
 
