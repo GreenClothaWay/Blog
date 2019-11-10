@@ -10,22 +10,22 @@ Hi there,
 this week we worked on our project management tool. We use youtrack and like it so far.
 We integrated it in our IDE (Pycharm)
 
-![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/yt_in_ide.png)
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/yt_in_ide.png)](https://github.com/GreenClothaWay/Website/blob/master/doc/screenshots/yt_in_ide.png)
 
 We also worked on the integration of GIT. As you can see in the next screenshot we use commands in our commits that will effect
 issues in youtrack.
 
-![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/commits_with_commands.png)
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/commits_with_commands.png)](https://github.com/GreenClothaWay/Website/blob/master/doc/screenshots/commits_with_commands.png)
 
 And here is how it looks in youtrack. You can see that the state of the issue changed.
 
-![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/commits_in_yt.png)
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/commits_in_yt.png)](https://github.com/GreenClothaWay/Website/blob/master/doc/screenshots/commits_in_yt.png)
 
 Last but not least we made a scrum board for our first sprint. As we are new to sprints and scrum nd all that stuff it is not perfect.
 In the scrum board you can also see that time taracking is enabled in youtrack and can also be changed by commands in commits (something
 like "work Development 1h").
 
-![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/scrumboard.png)
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/scrumboard.png)](https://github.com/GreenClothaWay/Website/blob/master/doc/screenshots/scrumboard.png)
 
 If you are interested in a deeper dive into our project management feel free to do so and visit our [youtrack](https://greenclothaway.myjetbrains.com/).
 
