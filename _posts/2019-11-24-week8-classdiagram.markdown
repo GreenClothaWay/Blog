@@ -13,39 +13,25 @@ Firstly, we created the ER database model, that we can create models for each us
 
 ER Model
 
-[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)]
-(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)
 
 It was very easy to build our models, because Django provides a lot of Models. This lightened our workload. After that, we built the UML class diagrams. It was very easy to create the class diagrams. PyCharm Professional provides a plugin to create class diagrams automatically. So, we had only to create our models and the rest did Pycharm.
 
 Account
-<br>
-[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png)]
-(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png)
-<br>
+
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png)
 
 Django-Messages
-<br>
-[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png)]
-(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png)
-<br>
+
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png)
 
 Inseration
-<br>
-[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png)]
-(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png)
-<br>
+
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png)
 
 Marketplace
-<br>
-[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png)]
-(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png)
-<br>
 
-
-
-
-
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png)
 
 Best regards,
 The GreenClothaWay-Team
