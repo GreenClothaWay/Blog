@@ -9,7 +9,7 @@ Hi there,
 
 this week we created our UML class diagrams for our promised use cases. It was very easy to create them.
 PyCharm Professional provides a plugin to create class diagrams automatically. 
-So, we had only to create our models and the rest did Pycharm.
+So, we only had to create our models and the rest did Pycharm.
 
 Account
 <br>
