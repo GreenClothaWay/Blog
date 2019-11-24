@@ -13,30 +13,37 @@ Firstly, we created the ER database model, that we can create models for each us
 
 ER Model
 <br>
-<img src="https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png" alt="screenshot" width="auto"/>
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)]
+(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)
 <br>
 
 It was very easy to build our models, because Django provides a lot of Models. This lightened our workload. After that, we built the UML class diagrams. It was very easy to create the class diagrams. PyCharm Professional provides a plugin to create class diagrams automatically. So, we had only to create our models and the rest did Pycharm.
 
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/yt_in_ide.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/screenshots/yt_in_ide.png)
+
 
 Account
 <br>
-<img src="https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png" alt="screenshot" width="auto"/>
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png)]
+(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/account.png)
 <br>
 
 Django-Messages
 <br>
-<img src="https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png" alt="screenshot" width="auto"/>
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png)]
+(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/django_messages.png)
 <br>
 
 Inseration
 <br>
-<img src="https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png" alt="screenshot" width="auto"/>
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png)]
+(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/inseration.png)
 <br>
 
 Marketplace
 <br>
-<img src="https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png" alt="screenshot" width="auto"/>
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png)]
+(https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/classdiagram/marketplace.png)
 <br>
 
 
