@@ -13,7 +13,7 @@ Firstly, we created the ER database model, that we can create models for each us
 
 ER Model
 
-[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/Modell.png)
+[![Screenshot](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/db_model.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/db_model.png)
 
 It was very easy to build our models, because Django provides a lot of Models. This lightened our workload. After that, we built the UML class diagrams. It was very easy to create the class diagrams. PyCharm Professional provides a plugin to create class diagrams automatically. So, we had only to create our models and the rest did Pycharm.
 
