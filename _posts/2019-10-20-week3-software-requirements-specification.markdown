@@ -15,7 +15,7 @@ You can find them on github:
 
 [Software Requirements Specification](https://github.com/GreenClothaWay/Website/blob/master/SRS.md)
 
-[Overall Use Case Diagram](https://github.com/GreenClothaWay/Website/blob/master/GCW_UML.png)
+[Overall Use Case Diagram](https://github.com/GreenClothaWay/Website/blob/master/doc/GCW_UML.png)
 
 An overview of our OUCD can also be seen here:
 
