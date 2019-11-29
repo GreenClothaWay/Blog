@@ -13,13 +13,13 @@ this week we worked on two documents:
 
 You can find them on github:
 
-[Software Requirements Specification](https://github.com/GreenClothaWay/Website/blob/master/SRS.md)
+[Software Requirements Specification](https://github.com/GreenClothaWay/Website/blob/master/doc/SRS.md)
 
 [Overall Use Case Diagram](https://github.com/GreenClothaWay/Website/blob/master/doc/GCW_UML.png)
 
 An overview of our OUCD can also be seen here:
 
-![Overall Use Case Diagram](https://raw.githubusercontent.com/GreenClothaWay/Website/master/GCW_UML.png)
+![Overall Use Case Diagram](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/GCW_UML.png)
 
 Best regards,
 
