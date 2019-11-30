@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Week9: MVC"
+date:   2019-11-30 19:00:00 +0200
+categories: update
+---
+
+Hi there,
+
+this week we have to describe the framework we use and give you an overview about MVC connected to it and in our code. 
+
+Four our Backend we use django. It is for python and brings the MVC structure right with it. Django uses the MTV structure not MVC tho.
+But the differenc eis negligible.
+
+MTV architecture consists of three parts:
+- first is a set of tools that make working with data and databases much easier
+- second is a templating system that can be used by non-programmers
+- third is a framework that handles communication between the user and the database and automates many of the painful parts of managing a complex website
+
+Parts 1 and 2 are relatable:
+- Models are the tools we use to work with data and databases
+- Templates provide a designer friendly plain-text templating system
+
+For our sorted classdiagram we tried to place our functions corresponding to the the MVC structure.
+
+[![Diagram](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/MVC_UML.png)](https://raw.githubusercontent.com/GreenClothaWay/Website/master/doc/MVC_UML.png)
+
+We also began to fill our Software-Architecture-Documentation ([SAD](https://github.com/GreenClothaWay/Website/blob/master/doc/SAD.md)) this week.
+
+Best regards,
+The GreenClothaWay-Team
