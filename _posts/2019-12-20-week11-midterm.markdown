@@ -23,7 +23,7 @@ Here are the links to our last blogposts. enjoy.
 | [ClassDiagram](https://blog.greenclothaway.eu/update/2019/11/24/week8-classdiagram.html) | 8 |
 | [MVC](https://blog.greenclothaway.eu/update/2019/11/30/week9-mvc.html) | 9 |
 
-And here a few links to a few useful documnts.
+And here a few links to a few useful documents.
 
 [SRS](https://github.com/GreenClothaWay/Website/blob/master/doc/SRS.md)
 
