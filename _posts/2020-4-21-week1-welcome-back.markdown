@@ -12,6 +12,7 @@ welcome back to software engineering. Hope all of you had a nice practical phase
 We as GCW decided not to change any of our used technologies.
 
 The usecases we wil be working on this semester are:
+
 - 
 
 Kind regards,
