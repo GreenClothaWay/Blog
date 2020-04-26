@@ -8,7 +8,8 @@ categories: update
 Hey guys,
 
 this Week we worked out some risks.
-You can find them in our ![risk table](https://github.com/GreenClothaWay/Website/blob/master/doc/risk/risk_table.ods).
+You can find them in our [risk table](https://github.com/GreenClothaWay/Website/blob/master/doc/risk/risk_table.ods) .
+
 
 Enjoy!
 
