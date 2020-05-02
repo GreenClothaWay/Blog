@@ -17,8 +17,8 @@ title: GreenClothaWay's Blog
 email: contact@greenclothaway.eu
 description: >- # this means to ignore newlines until "baseurl:"
   An online application to exchange clothes you no longer want for free.
-baseurl: "Blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.greenclothaway.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: greenclothaway
 github_username:  greenclothaway
 
