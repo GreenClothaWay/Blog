@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Week6: Design Patttern"
-date:   2020-05-24 17:45:30 +0200
+title:  "Week8: Retrospective"
+date:   2020-06-4 17:45:30 +0200
 categories: update
 ---
 
