@@ -9,13 +9,15 @@ Hi there,
 
 want to install your own instance of our webbased marketplace?
 
-Make sure you use a unix/linux like os or a bash like cmd line on windows. 
+Make sure you use a unix/linux like os or a bash like cmd line on windows.
 
-Just take a look at our [README](https://github.com/GreenClothaWay/Website/blob/installation/README.md).
+[Download](https://github.com/GreenClothaWay/Blog/tree/master/release) our package and take a look at our [README](https://github.com/GreenClothaWay/Website/blob/installation/README.md).
 
-Readme should be up to date allways. Guide below is a current snapshot.
+Readme should be up to date allways. Guide below is only a current snapshot.
 
 # Installation currrent version
+
+# GreenClothaWay
 
 ## prerequisites
 `python >= 3.6`
@@ -34,7 +36,7 @@ pip install -U wheel
 ```
 
 ## installation
-install package
+install package. one can find the releases [here](https://github.com/GreenClothaWay/Blog/tree/master/release) 
 ```
 pip install greenclothaway-<release_version>-py3-none-any.whl
 ```
@@ -47,9 +49,10 @@ mv <venvname>/lib/python3.8/site-packages/website/settings.py.sample <venvname>/
 in this settings.py you now have to add a django secrete key. for a development server any random 50 character long string will do.
 also if you want to use another databse then the default(sqlite) you have to configure it here.
 
-after that you will have to migrate django database stuff n all.
+after that you will have to create a superuser and migrate django database stuff n all.
 
 ```
+manage.py createsuperuser
 manage.py makemigrations
 manage.py migrate
 ```
