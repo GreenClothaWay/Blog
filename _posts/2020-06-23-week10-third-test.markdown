@@ -9,6 +9,8 @@ Hi there,
 
 we decided to let you Test for us. So please take the [Template](https://github.com/GreenClothaWay/Website/blob/master/doc/usertest.odt) and go through the steps and leave some feedback.
 
+You can submit your feedback to contact@greenclothaway.eu
+
 Love yall thanks for the great semester,
 
 The GreenClothaWay-Team
