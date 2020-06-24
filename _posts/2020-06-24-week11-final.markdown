@@ -21,8 +21,7 @@ First of all a list with links to all our Blog entrys:
 - [Week 7: Retrospective](https://blog.greenclothaway.eu/update/2019/11/13/week7-retrospective.html)
 - [Week 8: Classdiagram](https://blog.greenclothaway.eu/update/2019/11/24/week8-classdiagram.html)
 - [Week 9: MVC](https://blog.greenclothaway.eu/update/2019/11/30/week9-mvc.html)
-- [Week 11: Midterm](https://blog.greenclothaway.eu/update/2019/12/20/week11-midterm.html)
-- 
+- [Week 11: Midterm](https://blog.greenclothaway.eu/update/2019/12/20/week11-midterm.html) 
 
 ## Second Semester
 - [Week 1: Welcome Back](https://blog.greenclothaway.eu/update/2020/04/21/week1-welcome-back.html)
