@@ -9,6 +9,17 @@ Hey everybody,
 
 let's come together for ur last Blog entry. This will be a summary over all te work we've done and by that our written hand-in.
 
+
 First of all a list with links to all our Blog entrys:
-- [Blog name](link)
-- bla
+## First Semester
+-[Week 1: Introducing GreenClothaWay](https://blog.greenclothaway.eu/update/2019/09/30/week1-introducing-greenclothaway.html)
+## Second Semester
+
+Some more links to usefull project files:
+- [Github Project](https://github.com/GreenClothaWay/Website/)
+- [SRS](https://github.com/GreenClothaWay/Website/blob/master/doc/SRS.md)
+- [SAD](https://github.com/GreenClothaWay/Website/blob/master/doc/SAD.md)
+- [Overall UC Diagram](https://github.com/GreenClothaWay/Website/blob/master/doc/GCW_UML.png)
+
+
+
