@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week11: Final"
+date:   2020-06-24 11:45:30 +0200
+categories: update
+---
+
+Hey everybody,
+
+let's come together for ur last Blog entry. This will be a summary over all te work we've done and by that our written hand-in.
+
+First of all a list with links to all our Blog entrys:
+- [Blog name](link)
+- bla
