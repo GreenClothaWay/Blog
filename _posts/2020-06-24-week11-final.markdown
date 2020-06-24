@@ -12,8 +12,30 @@ let's come together for ur last Blog entry. This will be a summary over all te w
 
 First of all a list with links to all our Blog entrys:
 ## First Semester
--[Week 1: Introducing GreenClothaWay](https://blog.greenclothaway.eu/update/2019/09/30/week1-introducing-greenclothaway.html)
+- [Week 1: Introducing GreenClothaWay](https://blog.greenclothaway.eu/update/2019/09/30/week1-introducing-greenclothaway.html)
+- [Week 2: Roles and Technologies](https://blog.greenclothaway.eu/update/2019/10/13/week2-roles-and-technologies.html)
+- [Week 3: Software Requirements Specification](https://blog.greenclothaway.eu/update/2019/10/20/week3-software-requirements-specification.html)
+- [Week 4: Use Case Specification](https://blog.greenclothaway.eu/update/2019/10/26/week4-use-case-specification.html)
+- [Week 5: Testing with Behave](https://blog.greenclothaway.eu/update/2019/11/03/week5-testing-with-behave.html)
+- [Week 6: Scrum](https://blog.greenclothaway.eu/update/2019/11/10/week6-scrum.html)
+- [Week 7: Retrospective](https://blog.greenclothaway.eu/update/2019/11/13/week7-retrospective.html)
+- [Week 8: Classdiagram](https://blog.greenclothaway.eu/update/2019/11/24/week8-classdiagram.html)
+- [Week 9: MVC](https://blog.greenclothaway.eu/update/2019/11/30/week9-mvc.html)
+- [Week 11: Midterm](https://blog.greenclothaway.eu/update/2019/12/20/week11-midterm.html)
+- 
+
 ## Second Semester
+- [Week 1: Welcome Back](https://blog.greenclothaway.eu/update/2020/04/21/week1-welcome-back.html)
+- [Week 2: Risk Management](https://blog.greenclothaway.eu/update/2020/04/26/week2-risk-management.html)
+- [Week 3: Function Points](https://blog.greenclothaway.eu/update/2020/05/02/week3-function-points.html)
+- [Week 4: Unittests](https://blog.greenclothaway.eu/update/2020/05/10/week4-unitttests.html)
+- [Week 5: Refactoring](https://blog.greenclothaway.eu/update/2020/05/18/week5-refactoring.html)
+- [Week 6: Design Patterns](https://blog.greenclothaway.eu/update/2020/05/24/week6-design-patterns.html)
+- [Week 7: Metrics](https://blog.greenclothaway.eu/update/2020/06/01/week7-metrics.html)
+- [Week 8: Retrospective](https://blog.greenclothaway.eu/update/2020/06/04/week8-retrospective.html)
+- [Week 9: Installation](https://blog.greenclothaway.eu/update/2020/06/20/week9-installation.html)
+- [Week 10: Third Test](https://blog.greenclothaway.eu/update/2020/06/23/week10-third-test.html)
+
 
 Some more links to usefull project files:
 - [Github Project](https://github.com/GreenClothaWay/Website/)
