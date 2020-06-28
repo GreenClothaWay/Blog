@@ -36,7 +36,7 @@ First of all a list with links to all our Blog entrys:
 - [Week 10: Third Test](https://blog.greenclothaway.eu/update/2020/06/23/week10-third-test.html)
 
 
-Some more links to usefull project files:
+## Some more links to usefull project files:
 - [Github Project](https://github.com/GreenClothaWay/Website/)
 - [SRS](https://github.com/GreenClothaWay/Website/blob/master/doc/SRS.md)
 - [SAD](https://github.com/GreenClothaWay/Website/blob/master/doc/SAD.md)
