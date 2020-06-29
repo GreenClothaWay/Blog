@@ -47,5 +47,11 @@ First of all a list with links to all our Blog entrys:
 - [Overall UC Diagram](https://github.com/GreenClothaWay/Website/blob/master/doc/GCW_UML.png)
 - [YouTrack](https://greenclothaway.myjetbrains.com/youtrack/oauth?state=%2Fyoutrack%2F)
 
+## Final Stuff
+- [Handout](https://github.com/GreenClothaWay/Website/blob/master/doc/presentations/handout.pdf)
+- [Slides](https://github.com/GreenClothaWay/Website/blob/master/doc/presentations/final_presentation.pptx)
+
+
+
 
 
