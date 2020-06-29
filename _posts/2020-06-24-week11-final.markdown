@@ -10,7 +10,7 @@ Hey everybody,
 let's come together for our last Blog entry. This will be a summary over all te work we've done and by that our written hand-in.
 
 <video width="320" height="240" controls>
-  <source src="www.greenclothaway.eu/media/images/promo_vid.mp4" type="video/mp4">
+  <source src="https://www.greenclothaway.eu/media/images/promo_vid.mp4" type="video/mp4">
 </video>
 
 
