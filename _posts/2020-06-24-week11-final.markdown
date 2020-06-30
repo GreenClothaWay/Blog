@@ -50,7 +50,7 @@ First of all a list with links to all our Blog entrys:
 ## Final Stuff
 - [Handout](https://github.com/GreenClothaWay/Website/blob/master/doc/presentations/handout.pdf)
 - [Slides](https://github.com/GreenClothaWay/Website/blob/master/doc/presentations/final_presentation.pptx)
-- [ZIP for archive](https://github.com/GreenClothaWay/Website/blob/master/doc/archive_greenclothaway.tar.gz)
+- [ZIP for archive](https://github.com/GreenClothaWay/Website/blob/master/doc/archive_greenclothaway.zip)
 
 
 
